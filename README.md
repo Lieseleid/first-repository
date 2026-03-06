@@ -19,4 +19,5 @@ second_paragraph
 2. B
 3.C
 
-
+[x] YES
+[ ] NO
