@@ -21,3 +21,6 @@ second_paragraph
 
 - [x] YES
 - [ ] NO
+
+1. ALLAH
+         BUDDA
