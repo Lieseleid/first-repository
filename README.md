@@ -11,4 +11,6 @@ second_paragraph
   
 ~~22MD~~
 
->ETERNAL HATE <hr>
+>ETERNAL HATE
+
+<hr>
