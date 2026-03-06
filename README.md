@@ -11,4 +11,4 @@ second_paragraph
   
 ~~22MD~~
 
-<u>VK KV</u> <hr>
+>ETERNAL HATE <hr>
