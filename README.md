@@ -25,4 +25,4 @@ second_paragraph
 1. ALLAH
    >BUDDA
 
-<youtube.com>
+<https://skillbox.ru/media/code/>
